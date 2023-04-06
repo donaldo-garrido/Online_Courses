@@ -1,0 +1,38 @@
+------------------------------------------------------------------------
+1.1 Qué es JavaScript
+Es el lengiaje de programación que permitirá crear aplicaciones web y móviles
+JS se encuentra en cualquier web
+
+El tridente de la web es HTMS, CSS y JS
+HTML es solo de marcado
+CSS se enfoca en cómo se verá el contenido (presentación)
+JS lenguaje interpretado que interactúa con HTML y CSS. Manipula el contenido. 
+Invoca datos y servicios remotos.
+
+JS fue creado en 1995 (No confundir JavaScrip con Java)
+
+
+
+------------------------------------------------------------------------
+1.2 Herramientas y entorno de trabajo5
+
+Necesitamos un navegador  (de preferecnia Chrome)
+Además, un editor de texto, como VS.
+
+------------------------------------------------------------------------
+1.3 Conoce el material de tu curso
+
+Se descarga una carpeta que fue arrojada en esta.
+
+
+------------------------------------------------------------------------
+1.4 Tu primer JavaScript
+
+------------------------------------------------------------------------
+1.5 Aprendiendo a usar la consola
+
+------------------------------------------------------------------------
+1.6 Escribiendo comentarios en JavaScrip
+
+------------------------------------------------------------------------
+1.7 Qué es Strict Mode
